@@ -497,7 +497,7 @@ body {
 
 #subscribe {
 	background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-	url(../images/strategy.webp);
+	url(../../images/strategy.webp);
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
